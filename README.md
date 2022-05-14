@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m a collage student at at [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id)
+- 🔭 I'm looking for a new job as a mobile developer
 
 - 🌱 I’m currently learning Flutter
 
 - 👨‍ I’m Work as Software Engineer at ELC
-
-- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/syamsuonfire) or [Linkedin](https://www.linkedin.com/in/syamsu-rijal-efendi/)
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://my-portfolio-website-psi.vercel.app/)**
 
