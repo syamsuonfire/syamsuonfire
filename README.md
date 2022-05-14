@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-I'm Ahmad Muji</h1>
+I'm Syamsu Rijal Efendi</h1>
 <h3 align="center">I'm passionate Be A Mobile Developer and Web Developer.</h3>
 
 
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a href="https://github.com/ahmadm712">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmad Muji" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadm712&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/syamsuonfire">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syamsu Rijal" src="https://github-readme-streak-stats.herokuapp.com/?user=syamsuonfire&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 ### Github Stats
 
 <p align="left">
-<a href="https://github.com/ahmadm712">
+<a href="https://github.com/syamsuonfire">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadm712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadm712&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syamsuonfire&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
