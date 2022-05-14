@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 - 🔭 I'm looking for a new job as a mobile developer
 
-- 🌱 I’m currently learning Flutter
-
-- 👨‍ I’m Work as Software Engineer at ELC
+- 🌱 I’m currently learning Flutter and React
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://my-portfolio-website-psi.vercel.app/)**
 
