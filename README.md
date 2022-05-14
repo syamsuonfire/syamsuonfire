@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🙋‍♂️ About Me
-- 🔭 I'm looking for a new job as a mobile developer
+- 🔭 I'm looking for a new job as a mobile or web developer
 
 - 🌱 I’m currently learning Flutter and React
 
